@@ -1,0 +1,29 @@
+@relation Identificador
+@attribute promedior1 numeric
+@attribute promedior2 numeric
+@attribute promedior3 numeric
+@attribute promedior4 numeric
+@attribute promediog1 numeric
+@attribute promediog2 numeric
+@attribute promediog3 numeric
+@attribute promediog4 numeric
+@attribute promediob1 numeric
+@attribute promediob2 numeric
+@attribute promediob3 numeric
+@attribute promediob4 numeric
+@attribute varianzar1 numeric
+@attribute varianzar2 numeric
+@attribute varianzar3 numeric
+@attribute varianzar4 numeric
+@attribute varianzag1 numeric
+@attribute varianzag2 numeric
+@attribute varianzag3 numeric
+@attribute varianzag4 numeric
+@attribute varianzab1 numeric
+@attribute varianzab2 numeric
+@attribute varianzab3 numeric
+@attribute varianzab4 numeric
+@attribute nombresC{Galileo,Mark,Steven}
+
+@data
+81.86902104591837 , 96.99960493046777 , 52.15336599241466 , 79.7238624794424 , 64.90011160714286 , 77.58414981036663 , 41.53160556257902 , 61.6006735061477 , 66.66286670918367 , 77.6893173198483 , 46.19706068268015 , 64.7896468008458 , 8935.262276785714 , 10759.80649494311 , 3858.3222977243995 , 7598.765525882998 , 4644.200414540816 , 5825.3238780025285 , 1803.2731510745891 , 3761.097736706085 , 2639.8653539540815 , 3684.9042351453854 , 1082.4587547408344 , 2304.996554154593 , ?
